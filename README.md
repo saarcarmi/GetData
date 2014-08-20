@@ -6,7 +6,7 @@ This README file explains my solution for the project of the course Getting and 
 <li><b>Readme.MD</b> -- The file you are reading now</li>
 <li><b>CodeBook.MD</b> -- explains the structure of the tidy dataset generated in this assignment .</li>
 <li><b>run_analysis.r</b> -- R script to generate the dataset out of the UCI HAR Dataset.</li>
-
+</ol>
 This assignment uses data <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ">here</a>
 
 ##How to run the script
