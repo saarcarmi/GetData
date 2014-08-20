@@ -48,10 +48,12 @@ All columns are of class numeric.
 10           <b>Mean_tBodyAccJerk-Mean()-Y</b>
 
 11           <b>Mean_tBodyAccJerk-Mean()-Z</b>
+
 12              <b>Mean_tBodyGyro-Mean()-X</b>
 
 
 13              <b>Mean_tBodyGyro-Mean()-Y</b>
+
 14              <b>Mean_tBodyGyro-Mean()-Z</b>
 
 
