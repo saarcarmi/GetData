@@ -29,8 +29,11 @@ All columns are of class numeric.
 
 
 3	<b>Mean_tBodyAcc-Mean()-X</b>
+
 4	<b>Mean_tBodyAcc-Mean()-Y</b>
+
 5	<b>Mean_tBodyAcc-Mean()-Z</b>
+
 6             <b>Mean_tGravityAcc-Mean()-X</b>
 
 7             <b>Mean_tGravityAcc-Mean()-Y</b>
@@ -127,29 +130,53 @@ All columns are of class numeric.
 
 55            <b>Mean_tBodyAccJerk-std()-X</b>
 56            <b>Mean_tBodyAccJerk-std()-Y</b>
+
 57            <b>Mean_tBodyAccJerk-std()-Z</b>
+
 58               <b>Mean_tBodyGyro-std()-X</b>
+
 59               <b>Mean_tBodyGyro-std()-Y</b>
+
 60               <b>Mean_tBodyGyro-std()-Z</b>
+
 61           <b>Mean_tBodyGyroJerk-std()-X</b>
+
 62           <b>Mean_tBodyGyroJerk-std()-Y</b>
+
 63           <b>Mean_tBodyGyroJerk-std()-Z</b>
+
 64               <b>Mean_tBodyAccMag-std()</b>
+
 65            <b>Mean_tGravityAccMag-std()</b>
+
 66           <b>Mean_tBodyAccJerkMag-std()</b>
+
 67              <b>Mean_tBodyGyroMag-std()</b>
+
 68          <b>Mean_tBodyGyroJerkMag-std()</b>
+
 69                <b>Mean_fBodyAcc-std()-X</b>
+
 70                <b>Mean_fBodyAcc-std()-Y</b>
+
 71                <b>Mean_fBodyAcc-std()-Z</b>
+
 72            <b>Mean_fBodyAccJerk-std()-X</b>
+
 73            <b>Mean_fBodyAccJerk-std()-Y</b>
+
 74            <b>Mean_fBodyAccJerk-std()-Z</b>
+
 75               <b>Mean_fBodyGyro-std()-X</b>
+
 76               <b>Mean_fBodyGyro-std()-Y</b>
+
 77               <b>Mean_fBodyGyro-std()-Z</b>
+
 78               <b>Mean_fBodyAccMag-std()</b>
+
 79       <b>Mean_fBodyBodyAccJerkMag-std()</b>
+
 80          <b>Mean_fBodyBodyGyroMag-std()</b>
-81      <b>Mean_fBodyBodyGyroJerkMag-std()</b>
-..
+
+81     <b>Mean_fBodyBodyGyroJerkMag-std()</b>
