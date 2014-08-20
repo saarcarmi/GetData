@@ -26,7 +26,7 @@ The dataset includes 30 subjects X 6 activities  which is 180 rows and 81 column
    Only these columns will be read into the table
 </li>
 
-For the test and train sets the following is done separately. Please note that code uses a function to avoid code duplication
+<p>For the test and train sets the following is done separately. Please note that code uses a function to avoid code duplication
 <li>The subject list for each measurement is read. </li>
 <li>The activity for each measurement is read and is converted from id to the activity name.</li>
 <li>Both columns are attached to the dataset</li>

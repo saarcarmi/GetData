@@ -4,18 +4,20 @@ The data is based on "Human Activity Recognition Using Smartphones Dataset".
 The HumanActivityMeasurementMean dataset contains for each subject and activity the Mean of each feature messaurements which was recorded in the original dataset.
 
 ### Columns
-<b>Subject</b>
+<b>Subject</b><br>
 	factor with level of 1..30 representing the subject who was measured.
 	
-<b>Activity</b>
+<b>Activity</b><br>
 	The type of activity during which the measurements where taken
-	facor with the levels:
-		 walking 
-		 walking_upstairs 
-		 walking_downstairs 
-		 sitting 
-		 standing 
-		 laying
+	facor with the levels
+	<ol>
+	<li>walking</li>
+		<li> walking_upstairs </li>
+		 <li>walking_downstairs </li>
+		 <li>sitting </li>
+		 <li>standing </li>
+		 <li>laying</li>
+ </ol>
  
 Following the first two columns there is a set of columns holding the Mean of the features' measurements.
 Each column hold the Mean of a single feature.
