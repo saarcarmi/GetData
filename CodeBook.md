@@ -1,6 +1,6 @@
 ### Introduction
-This is a description of the tidy dataset HumanActivityMeasurementMean.
-The data is based on "Human Activity Recognition Using Smartphones Dataset".
+This is a description of the tidy dataset HumanActivityMeasurementMean.<br>
+The data is based on "Human Activity Recognition Using Smartphones Dataset".<br>
 The HumanActivityMeasurementMean dataset contains for each subject and activity the Mean of each feature messaurements which was recorded in the original dataset.
 
 ### Columns
@@ -19,9 +19,9 @@ The HumanActivityMeasurementMean dataset contains for each subject and activity 
 		 <li>laying</li>
  </ol>
  
-Following the first two columns there is a set of columns holding the Mean of the features' measurements.
+Following the first two columns there is a set of columns holding the Mean of the features' measurements.<br>
 Each column hold the Mean of a single feature.
-The columns names have the structure Mean_FEATURE-NAME, where the FEATURE-NAME is corresponding to the feature name in the original dataset.
+The columns names have the structure Mean_FEATURE-NAME, where the FEATURE-NAME is corresponding to the feature name in the original dataset.<br>
 Please refer to the feature.txt file of the "Human Activity Recognition Using Smartphones Dataset" for additional information about the feature themselves.
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
