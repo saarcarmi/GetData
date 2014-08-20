@@ -26,9 +26,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 These are the available columns. The number indicates the column ordinal number and is followed by the column name.
 All columns are of class numeric.
-3             <b>Mean_tBodyAcc-Mean()-X</b>
-4              <b>Mean_tBodyAcc-Mean()-Y</b>
-5           <b>Mean_tBodyAcc-Mean()-Z</b>
+<ol>
+<li>3             <b>Mean_tBodyAcc-Mean()-X</b></li>
+<li>4              <b>Mean_tBodyAcc-Mean()-Y</b>/li>
+<li>5           <b>Mean_tBodyAcc-Mean()-Z</b>/li>
 6             <b>Mean_tGravityAcc-Mean()-X</b>
 7             <b>Mean_tGravityAcc-Mean()-Y</b>
 8             <b>Mean_tGravityAcc-Mean()-Z</b>
