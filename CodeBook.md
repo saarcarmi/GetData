@@ -42,8 +42,8 @@ All columns are of class numeric.
 16          <b>Mean_tBodyGyroJerk-Mean()-Y</b>
 17          <b>Mean_tBodyGyroJerk-Mean()-Z</b>
 18              <b>Mean_tBodyAccMag-Mean()</b>
-19           <b>Mean_tGravityAccMag-Mean()</b>
-20          <b>Mean_tBodyAccJerkMag-Mean()</b>
+19           <b>Mean_tGravityAccMag-Mean()</b> 
+20          <b>Mean_tBodyAccJerkMag-Mean()</b>  
 21             <b>Mean_tBodyGyroMag-Mean()</b>
 22         <b>Mean_tBodyGyroJerkMag-Mean()</b>
 23               <b>Mean_fBodyAcc-Mean()-X</b>
@@ -105,3 +105,4 @@ All columns are of class numeric.
 79       <b>Mean_fBodyBodyAccJerkMag-std()</b>
 80          <b>Mean_fBodyBodyGyroMag-std()</b>
 81      <b>Mean_fBodyBodyGyroJerkMag-std()</b>
+..
