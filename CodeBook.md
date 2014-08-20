@@ -38,9 +38,12 @@ All columns are of class numeric.
 
 7             <b>Mean_tGravityAcc-Mean()-Y</b>
 
+
 8             <b>Mean_tGravityAcc-Mean()-Z</b>
 
+
 9            <b>Mean_tBodyAccJerk-Mean()-X</b>
+
 
 10           <b>Mean_tBodyAccJerk-Mean()-Y</b>
 
