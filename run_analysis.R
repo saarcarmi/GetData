@@ -55,4 +55,4 @@ humanActivityMeasurementMean<-aggregate(humanActivity[,c(-1,-2)],by=list(humanAc
 names(humanActivityMeasurementMean) <- c("Subject", "Activity", paste ("Mean_", names(d2)[c(-1,-2)], sep=""))
 
 #Write the output file #
-write.table (humanActivityMeasurementMean, "output.txt", row.names=FALSE)
+write.table (humanActivityMeasurementMean, "humanActivityMeasurementMean", row.names=FALSE)
