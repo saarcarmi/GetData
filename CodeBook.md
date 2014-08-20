@@ -130,7 +130,6 @@ All columns are of class numeric.
 
 55            <b>Mean_tBodyAccJerk-std()-X</b>
 56            <b>Mean_tBodyAccJerk-std()-Y</b>
-
 57            <b>Mean_tBodyAccJerk-std()-Z</b>
 
 58               <b>Mean_tBodyGyro-std()-X</b>
@@ -138,7 +137,6 @@ All columns are of class numeric.
 59               <b>Mean_tBodyGyro-std()-Y</b>
 
 60               <b>Mean_tBodyGyro-std()-Z</b>
-
 61           <b>Mean_tBodyGyroJerk-std()-X</b>
 
 62           <b>Mean_tBodyGyroJerk-std()-Y</b>
