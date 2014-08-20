@@ -41,7 +41,7 @@ readDataSet <- function (folder){
      subject <- read.table (subjectsFilename, col.names = "subject", colClasses = "factor")
      #combine the data to a single data frame and return it
      cbind (subject, activities, data)
-}
+}  
 
 #read the test and train data separat7ly
 testData  <- readDataSet ("test")
@@ -54,5 +54,5 @@ humanActivityMeasurementMean<-aggregate(humanActivity[,c(-1,-2)],by=list(humanAc
 #Change the group columns to a readable column name and add Mean_ prefix to the rest of the columns
 names(humanActivityMeasurementMean) <- c("Subject", "Activity", paste ("Mean_", names(d2)[c(-1,-2)], sep=""))
 
-#Write the output file
+#Write the output file #
 write.table (humanActivityMeasurementMean, "output.txt", row.names=FALSE)
