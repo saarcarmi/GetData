@@ -10,14 +10,14 @@ The HumanActivityMeasurementMean dataset contains for each subject and activity 
 <b>Activity</b><br>
 	The type of activity during which the measurements where taken
 	facor with the levels
-	<ol>
+	<ul>
 	<li>walking</li>
 		<li> walking_upstairs </li>
 		 <li>walking_downstairs </li>
 		 <li>sitting </li>
 		 <li>standing </li>
 		 <li>laying</li>
- </ol>
+ </ul>
  
 Following the first two columns there is a set of columns holding the Mean of the features' measurements.<br>
 Each column hold the Mean of a single feature.
