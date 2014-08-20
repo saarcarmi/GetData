@@ -20,14 +20,16 @@ Additionally, the script will dump the dataset as a text file called output.txt
 The dataset includes 30 subjects X 6 activities  which is 180 rows and 81 columns (1 for subject, 1 activity and the rest for the feature means)
 
 ###Steps used to create the dataset
-1. Decide which features should kept in the dataset. These are the features which have either "std" or "mean" (lower case) in the feature name. By examine the list of valus
+<ol>
+<li> Decide which features should kept in the dataset. These are the features which have either "std" or "mean" (lower case) in the feature name. By examine the list of valus
    The script will analyse the existing feature from the dataset itself rather then have it hard coded.
    Only these columns will be read into the table
+</li>
 
 For the test and train sets the following is done separately. Please note that code uses a function to avoid code duplication
-2. The subject list for each measurement is read. 
-3. The activity for each measurement is read and is converted from id to the activity name.
-4. Both columns are attached to the dataset
+<li>The subject list for each measurement is read. </li>
+<li>The activity for each measurement is read and is converted from id to the activity name.</li>
+<li>Both columns are attached to the dataset</li>
 
 The train and test set are then combined.
 

@@ -24,7 +24,7 @@ Please refer to the feature.txt file of the "Human Activity Recognition Using Sm
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-These are the available columns. The number indicates the column ordinal number and is followed by the column name.
+Below is the list of available columns. The number indicates the column ordinal number in the dataset and is followed by the column name.
 All columns are of class numeric.
 
 
