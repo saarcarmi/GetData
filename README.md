@@ -31,7 +31,7 @@ For the test and train sets the following is done separately. Please note that c
 <li>The activity for each measurement is read and is converted from id to the activity name.</li>
 <li>Both columns are attached to the dataset</li>
 
-The train and test set are then combined.
+<p>The train and test set are then combined.
 
 Then, the measurements are aggregated per subject & activity and the mean of the features is calculated.
 The columns are renamed for better clarify. The features' mean column name is "Mean_" followed by the original feature name so it can  reference to the code book of the original dataset. The Mean prefix is added to clarify this is a claculation of the original measurements.
